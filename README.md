@@ -20,10 +20,10 @@ Please [click here](https://payfast.io/integration/plugins/cs-cart/) for more in
 
 ## Upgrading
 
-Follow installation steps 1-3 above. You will then be presented with an option to **REMOVE** data or **OVERWRITE** data.
-If your desired add-on settings are saved in a safe place, select **Use the Safe Way**.
-Alternatively, select **Use the dangerous way** to overwrite the files.
-It is good practice to back up your site fully before installing any updates or upgrades.
+1. Before starting the update process, it is good practice to back up your site fully.
+2. Follow **Installation** steps 1-3 above.
+3. You will then be presented with an option to **REMOVE** data or **OVERWRITE** data.
+4. If your desired add-on settings are saved in a safe place, select **Use the Safe Way**. Alternatively, select **Use the dangerous way** to overwrite the files.
 
 <img width="651" height="428" alt="image" src="https://github.com/user-attachments/assets/b49b3067-bb41-45f3-9287-ce0845a9f9c8" />
 
