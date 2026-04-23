@@ -1,5 +1,18 @@
 # Changelog
 
+## [[1.2.2]](https://github.com/Payfast/cscart-aggregation/releases/tag/v1.2.2)
+  
+### Changed
+
+- Now directly assigns well-known CS-Cart order statuses:  
+    - `COMPLETE` → `P` (Processed/Paid).
+    - `FAILED`   → `F` (Failed).
+    - `PENDING`  → `I` (Incomplete/Open – most common convention for pending payments).
+
+### Fixed
+
+- Resolved an issue where completed payments were not updating the inventory.
+
 ## [[1.2.1]](https://github.com/Payfast/cscart-aggregation/releases/tag/v1.2.1)
 
 ### Fixed

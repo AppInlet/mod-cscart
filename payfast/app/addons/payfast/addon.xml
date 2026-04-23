@@ -10,7 +10,7 @@
 -->
 <addon scheme="3.0">
     <id>payfast</id>
-    <version>1.2.1</version>
+    <version>1.2.2</version>
     <status>active</status>
     <name>Payfast Aggregation</name>
     <default_language>en</default_language>
